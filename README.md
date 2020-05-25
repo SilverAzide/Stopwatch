@@ -17,6 +17,7 @@ Rainmeter 4.3.1 or later: <https://www.rainmeter.net>.<br>
 
 ## Attribution
 * [Gadgets](https://github.com/SilverAzide/Gadgets) by [SilverAzide](https://github.com/SilverAzide).
+* [DS-Digital](https://www.dafont.com/ds-digital.font) font by Dusit Supasawat.
 
 ## License
 Creative Commons Attribution-Noncommercial-Share Alike 3.0 License
