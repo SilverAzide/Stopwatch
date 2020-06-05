@@ -4,6 +4,8 @@
 
 The Stopwatch Gadget is a simple stopwatch with styling to match the [Gadgets](https://github.com/SilverAzide/Gadgets) suite.
 
+**[Download the latest version here (4.0.0)](https://github.com/SilverAzide/Stopwatch/releases/download/v4.0.0/Stopwatch.-.Gadgets.Patch_4.0.0.rmskin)**
+
 **NOTE:**<br>
 The installer is in the form of a patch, which will patch your existing [Gadgets](https://github.com/SilverAzide/Gadgets) installation without affecting your existing configuration or layouts. If you don't have the Gadgets suite installed, this will install as a standalone skin.
 
