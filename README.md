@@ -24,7 +24,7 @@ Rainmeter 4.4.0 or later: <https://www.rainmeter.net>.<br>
 * [DS-Digital](https://www.dafont.com/ds-digital.font) font by Dusit Supasawat.
 
 ## License
-Creative Commons Attribution-Noncommercial-Share Alike 3.0 License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Stopwatch/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Stopwatch/releases)
