@@ -18,7 +18,7 @@ The installer is in the form of a patch, which will patch your existing [Gadgets
 * Scales to any desired size.
 
 ## Requirements
-Rainmeter 4.4.0 or later: <https://www.rainmeter.net>.<br>
+[Rainmeter 4.4.0 or later](https://www.rainmeter.net).
 
 ## Attribution
 * [Gadgets](https://github.com/SilverAzide/Gadgets/#readme) by [SilverAzide](https://github.com/SilverAzide).
