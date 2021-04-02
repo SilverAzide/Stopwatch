@@ -18,14 +18,14 @@ The installer is in the form of a patch, which will patch your existing [Gadgets
 * Scales to any desired size.
 
 ## Requirements
-[Rainmeter 4.4.0 or later](https://www.rainmeter.net).
+[Rainmeter 4.4.0.3438 or later](https://www.rainmeter.net).
 
 ## Attribution
 * [Gadgets](https://github.com/SilverAzide/Gadgets/#readme) by [SilverAzide](https://github.com/SilverAzide).
 * [DS-Digital](https://www.dafont.com/ds-digital.font) font by Dusit Supasawat.
 
 ## License
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Stopwatch/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Stopwatch/releases)
